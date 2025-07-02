@@ -1,5 +1,5 @@
 const config = {
-  jsdURL: 'https://cdn.jsdelivr.net',
+  jsdURL: 'https://lxl66566.github.io',
   allowedOrigins: '*',
 }
 module.exports = config;
